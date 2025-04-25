@@ -9,7 +9,8 @@
 
 
 ## Descripcion
-Este proyecto es un sitio web de comercio electrónico completo, desarrollado con la pila MERN (MongoDB, Express.js, React y Node.js). Ofrece una plataforma robusta para que los usuarios exploren productos, agreguen artículos a su carrito y completen compras de forma segura. La aplicación presenta un diseño moderno y responsivo, y utiliza Cloudinary para una gestión eficiente de imágenes.
+Este proyecto es un Ecommerce completamente funcional, Incluye Carrito de compras, Sistema de usuarios, Barra de busqueda y estadisticas. Puedes probar el proyecto tu mismo y personalizarlo
+leyendo las instrucciones mas abajo
 
 
 ## INICIO
