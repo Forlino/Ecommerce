@@ -12,20 +12,17 @@
 Este proyecto es un sitio web de comercio electrónico completo, desarrollado con la pila MERN (MongoDB, Express.js, React y Node.js). Ofrece una plataforma robusta para que los usuarios exploren productos, agreguen artículos a su carrito y completen compras de forma segura. La aplicación presenta un diseño moderno y responsivo, y utiliza Cloudinary para una gestión eficiente de imágenes.
 
 
+## INICIO
 
-## Features
-- **User Authentication and Authorization**: Secure login and registration using JWT.
-- **Product Management**: CRUD operations for products, with multiple images upload via Cloudinary.
-- **Shopping Cart**: Add, remove, and update products in the cart.
-- **Checkout Process**: Seamless order placement with payment integration.
-- **Order Management**: Track order status and history.
-- **Admin Dashboard**: Manage products, orders, and users with an intuitive interface.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Search and Filter**: Easily find products with search and filtering capabilities.
-- **Reviews and Ratings**: Users can leave reviews and ratings for products.
+![Inicio](https://github.com/user-attachments/assets/99e55976-f38a-4350-82f8-b1d121b23abd)
+
+## LOGIN
+![Login](https://github.com/user-attachments/assets/9debd264-0456-4c05-a64b-f7f179d0ac13)
 
 
+## BARRA DE BUSQUEDA
 
+![Busqueda](https://github.com/user-attachments/assets/5e37b96e-b256-4391-9abf-163c18751d8d)
 
 ## Lenguajes utilizados
 - **Frontend**: React.js, Redux, React Router, Axios, Bootstrap
