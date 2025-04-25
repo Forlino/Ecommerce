@@ -9,7 +9,7 @@
 
 
 ## Descripcion
-Este proyecto es un Ecommerce completamente funcional, Incluye Carrito de compras, Sistema de usuarios, Barra de busqueda y estadisticas. Puedes probar el proyecto tu mismo y personalizarlo
+Este proyecto es un Ecommerce completamente funcional, Incluye Carrito de compras, Sistema de usuarios, Barra de busqueda y estadisticas, asi como una base de datos completamente funcional. Puedes probar el proyecto tu mismo y personalizarlo
 leyendo las instrucciones mas abajo
 
 
@@ -24,6 +24,10 @@ leyendo las instrucciones mas abajo
 ## BARRA DE BUSQUEDA
 
 ![Busqueda](https://github.com/user-attachments/assets/5e37b96e-b256-4391-9abf-163c18751d8d)
+
+## LOGO
+![Forlino (1) (1)](https://github.com/user-attachments/assets/c5b1618b-a133-41c7-8f0f-1807ba052c9a)
+
 
 ## Lenguajes utilizados
 - **Frontend**: React.js, Redux, React Router, Axios, Bootstrap
